@@ -7,4 +7,7 @@ A visualization of your life divided into weeks.
 
 
 ## Getting started
- download this repo and launch the weeks.html from your local machine. 
+ download this repo and launch the weeks.html from your local machine.
+
+## Credits
+- **[Base of Tim Urban's your life in weeks article](https://waitbutwhy.com/2014/05/life-weeks.html)**
