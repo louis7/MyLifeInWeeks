@@ -3,6 +3,8 @@
  */
 html {
   box-sizing: border-box;
+  background: #eeeeee;
+  /*background: linear-gradient(to bottom right, #E0E9E9 5vmin, #F8F0F0 calc(50% - 10vmin), #F8F0E0 calc(50% + 10vmin), #ECE9E9 calc(100% - 10vmin)) 0 0/ 100% 100vh fixed;*/
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -254,3 +256,5 @@ input:required:invalid.touched {
   height: 1px; width: 1px;
   margin: -1px; padding: 0; border: 0;
 }
+
+/* background animation */
